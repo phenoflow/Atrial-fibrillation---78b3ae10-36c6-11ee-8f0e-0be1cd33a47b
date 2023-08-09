@@ -1,0 +1,39 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/fibrillation---primary.py
+inputModule3:
+  class: File
+  path: python/atrial-fibrillation-flutter---primary.py
+inputModule4:
+  class: File
+  path: python/atrial-fibrillation---primary.py
+inputModule5:
+  class: File
+  path: python/atrial-fibrillation-monitoring---primary.py
+inputModule6:
+  class: File
+  path: python/atrial-fibrillation-letter---primary.py
+inputModule7:
+  class: File
+  path: python/atrial-fibrillation-invite---primary.py
+inputModule8:
+  class: File
+  path: python/atrial-fibrillation-specified---primary.py
+inputModule9:
+  class: File
+  path: python/atrial-fibrillation-history---primary.py
+inputModule10:
+  class: File
+  path: python/permanent-atrial-fibrillation---primary.py
+inputModule11:
+  class: File
+  path: python/atrial-fibrillation-flutter---secondary.py
+inputModule12:
+  class: File
+  path: python/output-cases.py
